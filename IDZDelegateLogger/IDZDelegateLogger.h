@@ -6,7 +6,7 @@
 //  Copyright (c) 2015 iOSDeveloperZone.com. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
 
 //! Project version number for IDZDelegateLogger.
 FOUNDATION_EXPORT double IDZDelegateLoggerVersionNumber;
