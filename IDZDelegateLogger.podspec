@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "IDZDelegateLogger"
-  s.version      = "0.0.3"
+  s.version      = "0.1.0"
   s.summary      = "A class to log all messages sent to an object."
 
   s.homepage     = "https://github.com/iosdevzone/IDZDelegateLogger"
@@ -18,6 +18,6 @@ Pod::Spec.new do |s|
   s.source_files  = "IDZDelegateLogger"
   s.public_header_files = "IDZDelegateLogger/*.h"
 
-  s.dependency "IDZInvocation", "~>0.0.5"
+  s.dependency "IDZInvocation", "~>0.1.0"
 
 end

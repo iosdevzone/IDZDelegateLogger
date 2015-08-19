@@ -5,7 +5,7 @@ source 'https://github.com/iOSDevZone/IDZPodspecs.git'
 # platform :ios, '6.0'
 
 target 'IDZDelegateLogger' do
-pod 'IDZInvocation', '~>0.0.5'
+pod 'IDZInvocation', '~>0.1.0'
 end
 
 target 'IDZDelegateLoggerTests' do
