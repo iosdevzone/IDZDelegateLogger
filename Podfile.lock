@@ -1,0 +1,10 @@
+PODS:
+  - IDZInvocation (0.0.5)
+
+DEPENDENCIES:
+  - IDZInvocation (~> 0.0.5)
+
+SPEC CHECKSUMS:
+  IDZInvocation: da67520fe172d2b4e52a70e8270308cf39b8ad3a
+
+COCOAPODS: 0.38.2
